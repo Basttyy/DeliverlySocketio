@@ -1,0 +1,20 @@
+{
+    "name": "basttyy/deliverlysocketio",
+    "description": "socket.io based server for delivearly application",
+    "type": "project",
+    "require": {
+        "basttyy/swoolesocketioserver": "9999999-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5",
+        "swoole/ide-helper": "@dev"
+    },
+    "license": "\"MIT\"",
+    "authors": [
+        {
+            "name": "Abdulbasit Mamman",
+            "email": "basttyydev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
